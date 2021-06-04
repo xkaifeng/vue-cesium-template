@@ -18,6 +18,6 @@ npm run build
 
 ### 申请并配置AccessToken(可选)
 
-1.登录到[CesiumIon]https://cesium.com/ion 注册一个免费的Ion账户
+1.登录到CesiumIon https://cesium.com/ion 注册一个免费的Ion账户
 
 2.设置属于自己的AccessToken。
